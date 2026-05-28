@@ -39,13 +39,15 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 - Itch.io: https://kyx1000.itch.io/portfolio-interactivo-karim
 
 
-<img width="200" height="100" alt="socialbu-resized-200x100" src="https://github.com/user-attachments/assets/c6d77fc8-2bc8-4803-b474-e90fa2402d20" />
+<img width="3840" height="2160" alt="DOOOM FONDO WAPO PIXELART" src="https://github.com/user-attachments/assets/07d81ea4-da9b-460f-941c-749470ff37d9" />
+
 
 
 # 2. Memoria del proyecto 
 
 ### 2.1 Storyboard: 
-<img width="200" height="100" alt="socialbu-resized-200x100 (1)" src="https://github.com/user-attachments/assets/a37b66ad-dc1c-42e1-8212-2127a09ac1dd" />
+<img width="2832" height="2002" alt="1000076525" src="https://github.com/user-attachments/assets/be47538d-8412-479c-82d5-bc007218a81c" />
+
 
 Se ve como el personaje jugable se aleja en el fondo de un infierno en una animación con musiquilla, luego llega a la puerta del infierno y ahí está el menú de jugar, galería y créditos, el botón de jugar lo lleva a un pasillo lleno de cuadros que le van dando información que tiene que memorizar para luego hacer un quiz.
 
@@ -108,9 +110,7 @@ Ha sido de las cosas más difíciles que he tenido que hacer con un ordenador, y
 
 # 5 Referencias 
 
-**Artículos y blogs** 
-
-- Crofts, S., Fox, M., Retsema, A. and Williams, B. (2005) *Podcasting: A new technology in search of viable business models*First Monday, 10(9). https://doi.org/10.5210/fm.v10i9.1273. Recuperado el 8 de abril de 2020 de: https://journals.uic.edu/ojs/index.php/fm/article/view/1273/1193
+DOOM el juego original
 
 **Recursos y materiales audiovisuales:**
 
